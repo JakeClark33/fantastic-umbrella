@@ -24,6 +24,8 @@ This app was created using
 ### How to install
 This app can be accessed from the github repo at https://github.com/JakeClark33/fantastic-umbrella.git. Just clone the repo. run the mysql database. Run the schema using source C:\Users\JAKE\Desktop\projects\fantastic-umbrella\db\schema.sql. The run npm seed from the command line, open insomnia core to localhost:3001, follow the api routes or the pre created routes and start adding inventory, or deleting or even updating. 
 
+Videoi Walkthrough: Unlisted: https://youtu.be/b2dy_FfSb3w.
+
 
 ## Contributors
 
